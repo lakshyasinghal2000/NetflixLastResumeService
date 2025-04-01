@@ -48,7 +48,7 @@ Installation & Setup
 
 1. Prerequisites
 
-Java 17+
+Java 11+
 
 Maven
 
